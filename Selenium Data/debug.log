@@ -1,0 +1,11 @@
+[0402/161906.266:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Sumit\AppData\Local\Temp\scoped_dir17648_936587309\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0402/161942.263:ERROR:process_info.cc(359)] UncheckedAllocate
+[0402/172129.335:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Sumit\AppData\Local\Temp\scoped_dir9324_1879705413\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0402/175658.578:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Sumit\AppData\Local\Temp\scoped_dir16880_1292015478\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0402/183735.333:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Sumit\AppData\Local\Temp\scoped_dir16912_659637818\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0402/182700.665:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Sumit\AppData\Local\Temp\scoped_dir8100_823594227\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0402/184057.913:ERROR:process_info.cc(359)] UncheckedAllocate
+[0413/001033.876:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Sumit\AppData\Local\Temp\scoped_dir16140_1823712820\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0413/003916.367:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0413/003916.368:ERROR:exception_snapshot_win.cc(98)] thread ID 3656 not found in process
+[0413/003916.369:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)

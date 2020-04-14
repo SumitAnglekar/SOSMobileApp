@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49c4d483-2067-47aa-9e58-3e1b6d90f32e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZxmWMJ07yddJOLFa3zjomx9ocH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="JUnit.Favorite">
+    <configuration name="Favorite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Scenario3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Favorite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario3" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Scenario3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Scenario3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Scenario3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Scenario3" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Favorite" />
+        <item itemvalue="TestNG.Scenario3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49c4d483-2067-47aa-9e58-3e1b6d90f32e" name="Default Changelist" comment="" />
+      <created>1585789149578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585789149578</updated>
+      <workItem from="1585789159296" duration="1808000" />
+      <workItem from="1585791335526" duration="141000" />
+      <workItem from="1585791734085" duration="2755000" />
+      <workItem from="1585816578329" duration="6203000" />
+      <workItem from="1585851499952" duration="5571000" />
+      <workItem from="1585860857549" duration="6564000" />
+      <workItem from="1585867825534" duration="2632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="99" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585789329454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="99" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1585789329454" />
+    <state width="1237" height="107" key="GridCell.Tab.0.bottom" timestamp="1585869430146">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="107" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585869430146" />
+    <state width="1237" height="107" key="GridCell.Tab.0.center" timestamp="1585869430146">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="107" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585869430146" />
+    <state width="1237" height="107" key="GridCell.Tab.0.left" timestamp="1585869430146">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="107" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585869430146" />
+    <state width="1237" height="107" key="GridCell.Tab.0.right" timestamp="1585869430146">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="107" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585869430146" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1585866081482">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585866081482" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1585866081482">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585866081482" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1585866081482">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585866081482" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1585866081482">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585866081482" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1585790757484">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1585790757484" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1585867827285">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585867827285" />
+  </component>
+</project>
